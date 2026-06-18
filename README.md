@@ -4,7 +4,7 @@
 
 **threat hunter - threat intelligence - security research - CTF Lover**
 
-> *"Ex nihilo nihil fit"* — nothing comes from nothing.
+*"Ex nihilo nihil fit"* — nothing comes from nothing.
 
 [![Site](https://img.shields.io/badge/thegr8val.me-a855f7?style=flat-square&logo=firefox&logoColor=white)](https://thegr8val.me)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@thegr8v4l)
