@@ -1,15 +1,8 @@
 <div align="center">
 
-```
- ████████╗██╗  ██╗███████╗ ██████╗ ██████╗ ██████╗ ██╗   ██╗ █████╗ ██╗
-    ██╔══╝██║  ██║██╔════╝██╔════╝ ██╔══██╗██╔══██╗██║   ██║██╔══██╗██║
-    ██║   ███████║█████╗  ██║  ███╗██████╔╝╚█████╔╝██║   ██║███████║██║
-    ██║   ██╔══██║██╔══╝  ██║   ██║██╔══██╗ ╚═══██╗╚██╗ ██╔╝██╔══██║██║
-    ██║   ██║  ██║███████╗╚██████╔╝██║  ██║██████╔╝ ╚████╔╝ ██║  ██║███████╗
-    ╚═╝   ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝   ╚═══╝  ╚═╝  ╚═╝╚══════╝
-```
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:e879f9&height=220&section=header&text=theGr8Val&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CTF%20player%20%C2%B7%20security%20researcher%20%C2%B7%20open-source%20advocate&descAlignY=58&descSize=16&descColor=e9d5ff)
 
-**CTF player · security researcher · open-source advocate · professional overthinker**
+**professional overthinker**
 
 > *"Ex nihilo nihil fit"* — nothing comes from nothing.
 
