@@ -23,10 +23,6 @@ $ cat about.txt
 I live at the intersection of curiosity and paranoia —
 which is exactly where you want your security researcher to be.
 
-CTF competitions are my gym.
-Open source is my philosophy.
-Overthinking is my superpower (and my curse).
-
 $ ls skills/
 binary-exploitation/  web-security/  reverse-engineering/
 OSINT/  forensics/  DFIR/  detection-engineering/  KQL/  python/  bash/
